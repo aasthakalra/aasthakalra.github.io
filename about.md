@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a Masters student at New York University studying Computer Science and specializing in Machine Learning. Previously, I worked at Amazon as a Software Developer and mentored students at Udacity. I completed my undergraduate from the Indian Institue of Technology. 
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+##### Contact me
+
+[shubhamchandel@nyu.edu](mailto:shubhamchandel@nyu.edu)
